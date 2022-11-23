@@ -3,3 +3,9 @@
 # Manually managing azure-functions-worker may cause unexpected issues
 
 azure-functions
+azure.storage.blob
+imageio
+imageio_ffmpeg
+ffmpeg
+moviepy
+tqdm>=4.64.1
