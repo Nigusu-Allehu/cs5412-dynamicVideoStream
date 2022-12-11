@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NYstream-react", "NYstream-react\NYstream-react.csproj", "{B6720E03-8099-4253-B5F8-F211391163FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6720E03-8099-4253-B5F8-F211391163FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6720E03-8099-4253-B5F8-F211391163FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6720E03-8099-4253-B5F8-F211391163FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6720E03-8099-4253-B5F8-F211391163FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {431BB812-AA58-496D-A39D-9800672CD3FC}
+	EndGlobalSection
+EndGlobal
